@@ -1,6 +1,6 @@
-PARKING 
+# PARKING 
 
 Integrantes: 
-- Cristian Bedon
-- Yhonatan Gomez
+- Cristian Bedón
+- Yhonatan Gómez
 - Daniela Torres
